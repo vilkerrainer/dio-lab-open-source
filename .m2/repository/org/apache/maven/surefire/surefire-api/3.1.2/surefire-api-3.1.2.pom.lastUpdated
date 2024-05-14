@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Mar 30 01:22:38 BRT 2024
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1711772558649
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.surefire\:surefire-api\:pom\:3.1.2 from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\vilke\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\3.1.2\\surefire-api-3.1.2.pom.9296002711590555630.tmp -> C\:\\Users\\vilke\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\3.1.2\\surefire-api-3.1.2.pom
